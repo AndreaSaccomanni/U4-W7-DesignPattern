@@ -14,7 +14,7 @@ public class Pagina implements LibroComposite {
 
     @Override
     public void stampa() {
-        System.out.println("Contenuto della pagine: " + this.contenuto);
+        System.out.println("Contenuto della pagina: " + this.contenuto);
     }
 
     @Override
